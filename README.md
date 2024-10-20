@@ -69,3 +69,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # renteei
+
+Renteei is my first project using React.js.
+The main idea is to use the features and explore the possibilites, applying it on a high-performance website.
+It will also be my first time using Django as a backend language.
+Feel free to write me on brunoalves@estudante.ufscar.br
+I will be happy on having new ideas, learning with you, and understanding new concepts.
