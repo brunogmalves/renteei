@@ -1,0 +1,15 @@
+
+.mySliderContainer{
+    margin: 0 auto;
+    max-width: 1366px;
+    overflow: hidden;
+}
+
+.mySliderContainer .slick-slide{
+    height: 80vh;
+    display: flex;
+    align-items: center;
+    background-color: #f3f3f3;
+    justify-content: center;
+
+}
